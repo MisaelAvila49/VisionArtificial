@@ -1,5 +1,5 @@
 masks,images
-VisionArtificial/images-unet/P15_F2_V1_mask,VisionArtificial/images-unet/P15_F2_V1_mask_images
+VisionArtificial/images-unet/P15_F2_V1_mask,VisionArtificial/images-unet/P15_F2_V1_mask_image
 VisionArtificial/images-unet/P15_F2_V2_mask,VisionArtificial/images-unet/P15_F2_V2_mask_image
 VisionArtificial/images-unet/P15_F3_V1_mask,VisionArtificial/images-unet/P15_F3_V1_mask_image
 VisionArtificial/images-unet/P15_F3_V2_mask,VisionArtificial/images-unet/P15_F3_V2_mask_image
@@ -95,3 +95,19 @@ VisionArtificial/images-unet/P3_F4_V1_mask,VisionArtificial/images-unet/P3_F4_V1
 VisionArtificial/images-unet/P3_F4_V2_mask,VisionArtificial/images-unet/P3_F4_V2_mask_image
 VisionArtificial/images-unet/P3_F5_V1_mask,VisionArtificial/images-unet/P3_F5_V1_mask_image
 VisionArtificial/images-unet/P3_F5_V2_mask,VisionArtificial/images-unet/P3_F5_V2_mask_image
+VisionArtificial/images-unet/P2_F2_V1_mask,VisionArtificial/images-unet/P2_F2_V1_mask_image
+VisionArtificial/images-unet/P2_F2_V2_mask,VisionArtificial/images-unet/P2_F2_V2_mask_image
+VisionArtificial/images-unet/P2_F3_V1_mask,VisionArtificial/images-unet/P2_F3_V1_mask_image
+VisionArtificial/images-unet/P2_F3_V2_mask,VisionArtificial/images-unet/P2_F3_V2_mask_image
+VisionArtificial/images-unet/P2_F4_V1_mask,VisionArtificial/images-unet/P2_F4_V1_mask_image
+VisionArtificial/images-unet/P2_F4_V2_mask,VisionArtificial/images-unet/P2_F4_V2_mask_image
+VisionArtificial/images-unet/P2_F5_V1_mask,VisionArtificial/images-unet/P2_F5_V1_mask_image
+VisionArtificial/images-unet/P2_F5_V2_mask,VisionArtificial/images-unet/P2_F5_V2_mask_image
+VisionArtificial/images-unet/P1_F2_V1_mask,VisionArtificial/images-unet/P1_F2_V1_mask_image
+VisionArtificial/images-unet/P1_F2_V2_mask,VisionArtificial/images-unet/P1_F2_V2_mask_image
+VisionArtificial/images-unet/P1_F3_V1_mask,VisionArtificial/images-unet/P1_F3_V1_mask_image
+VisionArtificial/images-unet/P1_F3_V2_mask,VisionArtificial/images-unet/P1_F3_V2_mask_image
+VisionArtificial/images-unet/P1_F4_V1_mask,VisionArtificial/images-unet/P1_F4_V1_mask_image
+VisionArtificial/images-unet/P1_F4_V2_mask,VisionArtificial/images-unet/P1_F4_V2_mask_image
+VisionArtificial/images-unet/P1_F5_V1_mask,VisionArtificial/images-unet/P1_F5_V1_mask_image
+VisionArtificial/images-unet/P1_F5_V2_mask,VisionArtificial/images-unet/P1_F5_V2_mask_image
