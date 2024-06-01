@@ -1,4 +1,11 @@
 masks,images
+VisionArtificial/images-unet/test/labels/P16_F2_V1_mask.png,VisionArtificial/images-unet/test/image/P16_F2_V1_mask_image.png
+VisionArtificial/images-unet/test/labels/P16_F2_V2_mask.png,VisionArtificial/images-unet/test/image/P16_F2_V2_mask_image.png
+VisionArtificial/images-unet/test/labels/P16_F3_V1_mask.png,VisionArtificial/images-unet/test/image/P16_F3_V1_mask_image.png
+VisionArtificial/images-unet/test/labels/P16_F3_V2_mask.png,VisionArtificial/images-unet/test/image/P16_F3_V2_mask_image.png
+VisionArtificial/images-unet/test/labels/P16_F4_V1_mask.png,VisionArtificial/images-unet/test/image/P16_F4_V1_mask_image.png
+VisionArtificial/images-unet/test/labels/P16_F4_V2_mask.png,VisionArtificial/images-unet/test/image/P16_F4_V2_mask_image.png
+VisionArtificial/images-unet/test/labels/P16_F5_V1_mask.png,VisionArtificial/images-unet/test/image/P16_F5_V1_mask_image.png
 VisionArtificial/images-unet/test/labels/P15_F2_V1_mask.png,VisionArtificial/images-unet/test/image/P15_F2_V1_mask_image.png
 VisionArtificial/images-unet/test/labels/P15_F2_V2_mask.png,VisionArtificial/images-unet/test/image/P15_F2_V2_mask_image.png
 VisionArtificial/images-unet/test/labels/P15_F3_V1_mask.png,VisionArtificial/images-unet/test/image/P15_F3_V1_mask_image.png
