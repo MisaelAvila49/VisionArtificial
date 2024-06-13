@@ -1,3 +1,4 @@
+masks,images
 VisionArtificial/images-unet2/test/labels/P20_F2_V1_mask_image.png,VisionArtificial/FotosCorregidas/P20_F2_V1.png
 VisionArtificial/images-unet2/test/labels/P20_F2_V2_mask_image.png,VisionArtificial/FotosCorregidas/P20_F2_V2.png
 VisionArtificial/images-unet2/test/labels/P20_F3_V1_mask_image.png,VisionArtificial/FotosCorregidas/P20_F3_V1.png
