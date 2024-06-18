@@ -95,42 +95,6 @@ VisionArtificial/images-unet2/test/labels/P6_F3_V2_mask.png,VisionArtificial/Fot
 VisionArtificial/images-unet2/test/labels/P6_F4_V1_mask.png,VisionArtificial/FotosCorregidas/P6_F4_V1.png
 VisionArtificial/images-unet2/test/labels/P6_F4_V2_mask.png,VisionArtificial/FotosCorregidas/P6_F4_V2.png
 VisionArtificial/images-unet2/test/labels/P6_F5_V1_mask.png,VisionArtificial/FotosCorregidas/P6_F5_V1.png
-VisionArtificial/images-unet2/test/labels/P5_F2_V1_mask.png,VisionArtificial/FotosCorregidas/P5_F2_V1.jpg
-VisionArtificial/images-unet2/test/labels/P5_F2_V2_mask.png,VisionArtificial/FotosCorregidas/P5_F2_V2.jpg
-VisionArtificial/images-unet2/test/labels/P5_F3_V1_mask.png,VisionArtificial/FotosCorregidas/P5_F3_V1.jpg
-VisionArtificial/images-unet2/test/labels/P5_F3_V2_mask.png,VisionArtificial/FotosCorregidas/P5_F3_V2.jpg
-VisionArtificial/images-unet2/test/labels/P5_F4_V1_mask.png,VisionArtificial/FotosCorregidas/P5_F4_V1.jpg
-VisionArtificial/images-unet2/test/labels/P5_F4_V2_mask.png,VisionArtificial/FotosCorregidas/P5_F4_V2.jpg
-VisionArtificial/images-unet2/test/labels/P5_F5_V1_mask.png,VisionArtificial/FotosCorregidas/P5_F5_V1.jpg
-VisionArtificial/images-unet2/test/labels/P4_F2_V1_mask.png,VisionArtificial/FotosCorregidas/P4_F2_V1.jpg
-VisionArtificial/images-unet2/test/labels/P4_F2_V2_mask.png,VisionArtificial/FotosCorregidas/P4_F2_V2.jpg
-VisionArtificial/images-unet2/test/labels/P4_F3_V1_mask.png,VisionArtificial/FotosCorregidas/P4_F3_V1.jpg
-VisionArtificial/images-unet2/test/labels/P4_F3_V2_mask.png,VisionArtificial/FotosCorregidas/P4_F3_V2.jpg
-VisionArtificial/images-unet2/test/labels/P4_F4_V1_mask.png,VisionArtificial/FotosCorregidas/P4_F4_V1.jpg
-VisionArtificial/images-unet2/test/labels/P4_F4_V2_mask.png,VisionArtificial/FotosCorregidas/P4_F4_V2.jpg
-VisionArtificial/images-unet2/test/labels/P4_F5_V1_mask.png,VisionArtificial/FotosCorregidas/P4_F5_V1.jpg
-VisionArtificial/images-unet2/test/labels/P3_F2_V1_mask.png,VisionArtificial/FotosCorregidas/P3_F2_V1.jpg
-VisionArtificial/images-unet2/test/labels/P3_F2_V2_mask.png,VisionArtificial/FotosCorregidas/P3_F2_V2.jpg
-VisionArtificial/images-unet2/test/labels/P3_F3_V1_mask.png,VisionArtificial/FotosCorregidas/P3_F3_V1.jpg
-VisionArtificial/images-unet2/test/labels/P3_F3_V2_mask.png,VisionArtificial/FotosCorregidas/P3_F3_V2.jpg
-VisionArtificial/images-unet2/test/labels/P3_F4_V1_mask.png,VisionArtificial/FotosCorregidas/P3_F4_V1.jpg
-VisionArtificial/images-unet2/test/labels/P3_F4_V2_mask.png,VisionArtificial/FotosCorregidas/P3_F4_V2.jpg
-VisionArtificial/images-unet2/test/labels/P3_F5_V1_mask.png,VisionArtificial/FotosCorregidas/P3_F5_V1.jpg
-VisionArtificial/images-unet2/test/labels/P2_F2_V1_mask.png,VisionArtificial/FotosCorregidas/P2_F2_V1.jpg
-VisionArtificial/images-unet2/test/labels/P2_F2_V2_mask.png,VisionArtificial/FotosCorregidas/P2_F2_V2.jpg
-VisionArtificial/images-unet2/test/labels/P2_F3_V1_mask.png,VisionArtificial/FotosCorregidas/P2_F3_V1.jpg
-VisionArtificial/images-unet2/test/labels/P2_F3_V2_mask.png,VisionArtificial/FotosCorregidas/P2_F3_V2.jpg
-VisionArtificial/images-unet2/test/labels/P2_F4_V1_mask.png,VisionArtificial/FotosCorregidas/P2_F4_V1.jpg
-VisionArtificial/images-unet2/test/labels/P2_F4_V2_mask.png,VisionArtificial/FotosCorregidas/P2_F4_V2.jpg
-VisionArtificial/images-unet2/test/labels/P2_F5_V1_mask.png,VisionArtificial/FotosCorregidas/P2_F5_V1.jpg
-VisionArtificial/images-unet2/test/labels/P1_F2_V1_mask.png,VisionArtificial/FotosCorregidas/P1_F2_V1.jpg
-VisionArtificial/images-unet2/test/labels/P1_F2_V2_mask.png,VisionArtificial/FotosCorregidas/P1_F2_V2.jpg
-VisionArtificial/images-unet2/test/labels/P1_F3_V1_mask.png,VisionArtificial/FotosCorregidas/P1_F3_V1.jpg
-VisionArtificial/images-unet2/test/labels/P1_F3_V2_mask.png,VisionArtificial/FotosCorregidas/P1_F3_V2.jpg
-VisionArtificial/images-unet2/test/labels/P1_F4_V1_mask.png,VisionArtificial/FotosCorregidas/P1_F4_V1.jpg
-VisionArtificial/images-unet2/test/labels/P1_F4_V2_mask.png,VisionArtificial/FotosCorregidas/P1_F4_V2.jpg
-VisionArtificial/images-unet2/test/labels/P1_F5_V1_mask.png,VisionArtificial/FotosCorregidas/P1_F5_V1.jpg
-VisionArtificial/images-unet2/test/labels/P1_F5_V2_mask.png,VisionArtificial/FotosCorregidas/P1_F5_V2.jpg
 
 
 
